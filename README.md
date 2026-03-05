@@ -98,4 +98,4 @@ LegacyMods hosts **user-submitted mods only** and does not distribute or host an
 
 ## 📄 License
 
-MIT © [Your Name](https://github.com/YOUR_USERNAME)
+MIT © [Zupermini09](https://github.com/Zupermini09)
